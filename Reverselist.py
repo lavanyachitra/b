@@ -1,5 +1,7 @@
-def Reverse(list):
-   list.reverse()
-   return list
-list=[1,2,3,4,5,6,7]
-print(Reverse(list))
+num=int(input())-1
+x=list(map(int,input().split()))
+x=x[::-1]
+for i in range(n):
+    print(x[i],end='->')
+print(x[n])  
+  
