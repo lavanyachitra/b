@@ -1,2 +1,2 @@
-z=list(map(int,input().split()[:10]))
-print(min(z))
+zy=list(map(int,input().split()[:10]))
+print(min(zy))
